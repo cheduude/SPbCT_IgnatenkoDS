@@ -1,0 +1,6 @@
+﻿  18-19.cpp
+C:\Users\coook\source\repos\18-19\18-19\18-19.cpp(52,16): error C2100: недопустимое косвенное обращение
+C:\Users\coook\source\repos\18-19\18-19\18-19.cpp(52,19): error C2440: =: невозможно преобразовать "LPVOID" в "CHAR"
+C:\Users\coook\source\repos\18-19\18-19\18-19.cpp(52,17): message : Не существует контекста, в котором такое преобразование возможно
+C:\Users\coook\source\repos\18-19\18-19\18-19.cpp(53,5): error C2036: LPVOID: неизвестный размер
+C:\Users\coook\source\repos\18-19\18-19\18-19.cpp(87,11): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "LPVOID"
