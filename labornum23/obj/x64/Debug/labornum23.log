@@ -1,0 +1,20 @@
+﻿  Проверка исходных файлов
+  Удаленное копирование исходных файлов в "192.168.1.103"
+  Проверка архитектуры
+  Проверка архитектуры
+  Запуск удаленной сборки.
+  Компиляция исходных файлов:
+  Связывание объектов
+/usr/bin/ld : error : /home/kk/projects/labornum23/obj/x64/Debug/Source.o: в функции «main»:
+C:\Users\brune\Desktop\Дз\Системное программирование\laborators\labornum23\labornum23\Source.cpp(7): error : повторное определение «main»; /home/kk/projects/labornum23/obj/x64/Debug/main.o:/home/kk/projects/labornum23/main.cpp:4: здесь первое определение
+/usr/bin/ld : error : /home/kk/projects/labornum23/obj/x64/Debug/Source1.o: в функции «main»:
+C:\Users\brune\Desktop\Дз\Системное программирование\laborators\labornum23\labornum23\Source1.cpp(5): error : повторное определение «main»; /home/kk/projects/labornum23/obj/x64/Debug/main.o:/home/kk/projects/labornum23/main.cpp:4: здесь первое определение
+/usr/bin/ld : error : /home/kk/projects/labornum23/obj/x64/Debug/Source2.o: в функции «main»:
+C:\Users\brune\Desktop\Дз\Системное программирование\laborators\labornum23\labornum23\Source2.cpp(3): error : повторное определение «main»; /home/kk/projects/labornum23/obj/x64/Debug/main.o:/home/kk/projects/labornum23/main.cpp:4: здесь первое определение
+/usr/bin/ld : error : /home/kk/projects/labornum23/obj/x64/Debug/Source3.o: в функции «main»:
+C:\Users\brune\Desktop\Дз\Системное программирование\laborators\labornum23\labornum23\Source3.cpp(4): error : повторное определение «main»; /home/kk/projects/labornum23/obj/x64/Debug/main.o:/home/kk/projects/labornum23/main.cpp:4: здесь первое определение
+/usr/bin/ld : error : /home/kk/projects/labornum23/obj/x64/Debug/Source4.o: в функции «main»:
+C:\Users\brune\Desktop\Дз\Системное программирование\laborators\labornum23\labornum23\Source4.cpp(4): error : повторное определение «main»; /home/kk/projects/labornum23/obj/x64/Debug/main.o:/home/kk/projects/labornum23/main.cpp:4: здесь первое определение
+/usr/bin/ld : error : /home/kk/projects/labornum23/obj/x64/Debug/Source5.o: в функции «main»:
+C:\Users\brune\Desktop\Дз\Системное программирование\laborators\labornum23\labornum23\Source5.cpp(4): error : повторное определение «main»; /home/kk/projects/labornum23/obj/x64/Debug/main.o:/home/kk/projects/labornum23/main.cpp:4: здесь первое определение
+collect2 : error : ld returned 1 exit status
