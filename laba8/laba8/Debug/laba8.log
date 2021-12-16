@@ -1,0 +1,3 @@
+﻿  laba8.cpp
+C:\Users\coook\source\repos\laba8\laba8\laba8.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  laba8.vcxproj -> C:\Users\coook\source\repos\laba8\Debug\laba8.exe
