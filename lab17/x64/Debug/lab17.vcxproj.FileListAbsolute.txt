@@ -1,0 +1,2 @@
+C:\Users\coook\OneDrive\Рабочий стол\Лабы по системному\lab17\lab17\x64\Debug\lab17.vcxproj.AssemblyReference.cache
+C:\Users\coook\OneDrive\Рабочий стол\Лабы по системному\lab17\lab17\x64\Debug\lab17.exe
