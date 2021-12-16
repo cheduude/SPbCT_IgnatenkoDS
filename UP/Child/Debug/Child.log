@@ -1,0 +1,3 @@
+﻿  child.cpp
+C:\Users\coook\source\repos\UP\Child\child.cpp(34,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Child.vcxproj -> C:\Users\coook\source\repos\UP\Debug\Child.exe
