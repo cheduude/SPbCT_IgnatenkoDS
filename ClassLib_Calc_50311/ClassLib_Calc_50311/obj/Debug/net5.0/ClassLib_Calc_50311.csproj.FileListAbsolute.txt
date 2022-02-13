@@ -1,0 +1,16 @@
+C:\Users\coook\source\repos\ClassLib_Calc_50311\ClassLib_Calc_50311\bin\Debug\net5.0\ClassLib_Calc_50311.exe
+C:\Users\coook\source\repos\ClassLib_Calc_50311\ClassLib_Calc_50311\bin\Debug\net5.0\ClassLib_Calc_50311.deps.json
+C:\Users\coook\source\repos\ClassLib_Calc_50311\ClassLib_Calc_50311\bin\Debug\net5.0\ClassLib_Calc_50311.runtimeconfig.json
+C:\Users\coook\source\repos\ClassLib_Calc_50311\ClassLib_Calc_50311\bin\Debug\net5.0\ClassLib_Calc_50311.runtimeconfig.dev.json
+C:\Users\coook\source\repos\ClassLib_Calc_50311\ClassLib_Calc_50311\bin\Debug\net5.0\ClassLib_Calc_50311.dll
+C:\Users\coook\source\repos\ClassLib_Calc_50311\ClassLib_Calc_50311\bin\Debug\net5.0\ref\ClassLib_Calc_50311.dll
+C:\Users\coook\source\repos\ClassLib_Calc_50311\ClassLib_Calc_50311\bin\Debug\net5.0\ClassLib_Calc_50311.pdb
+C:\Users\coook\source\repos\ClassLib_Calc_50311\ClassLib_Calc_50311\obj\Debug\net5.0\ClassLib_Calc_50311.csproj.AssemblyReference.cache
+C:\Users\coook\source\repos\ClassLib_Calc_50311\ClassLib_Calc_50311\obj\Debug\net5.0\ClassLib_Calc_50311.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coook\source\repos\ClassLib_Calc_50311\ClassLib_Calc_50311\obj\Debug\net5.0\ClassLib_Calc_50311.AssemblyInfoInputs.cache
+C:\Users\coook\source\repos\ClassLib_Calc_50311\ClassLib_Calc_50311\obj\Debug\net5.0\ClassLib_Calc_50311.AssemblyInfo.cs
+C:\Users\coook\source\repos\ClassLib_Calc_50311\ClassLib_Calc_50311\obj\Debug\net5.0\ClassLib_Calc_50311.csproj.CoreCompileInputs.cache
+C:\Users\coook\source\repos\ClassLib_Calc_50311\ClassLib_Calc_50311\obj\Debug\net5.0\ClassLib_Calc_50311.dll
+C:\Users\coook\source\repos\ClassLib_Calc_50311\ClassLib_Calc_50311\obj\Debug\net5.0\ref\ClassLib_Calc_50311.dll
+C:\Users\coook\source\repos\ClassLib_Calc_50311\ClassLib_Calc_50311\obj\Debug\net5.0\ClassLib_Calc_50311.pdb
+C:\Users\coook\source\repos\ClassLib_Calc_50311\ClassLib_Calc_50311\obj\Debug\net5.0\ClassLib_Calc_50311.genruntimeconfig.cache

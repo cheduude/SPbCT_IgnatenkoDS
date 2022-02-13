@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLib_Calc_50311", "ClassLib_Calc_50311\ClassLib_Calc_50311.csproj", "{371A439E-D026-414F-B987-337B4DE9D04A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms_Calc_50311", "WinForms_Calc_50311\WinForms_Calc_50311.csproj", "{10CB7667-6814-4A70-B7C1-44ECB35213F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{371A439E-D026-414F-B987-337B4DE9D04A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{371A439E-D026-414F-B987-337B4DE9D04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{371A439E-D026-414F-B987-337B4DE9D04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{371A439E-D026-414F-B987-337B4DE9D04A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10CB7667-6814-4A70-B7C1-44ECB35213F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CB7667-6814-4A70-B7C1-44ECB35213F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CB7667-6814-4A70-B7C1-44ECB35213F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CB7667-6814-4A70-B7C1-44ECB35213F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BDE6096-8098-4017-BE47-8FA1D02D0D8C}
+	EndGlobalSection
+EndGlobal

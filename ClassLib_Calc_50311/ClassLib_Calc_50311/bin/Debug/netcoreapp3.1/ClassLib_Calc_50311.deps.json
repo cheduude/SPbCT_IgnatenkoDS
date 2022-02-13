@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ClassLib_Calc_50311/1.0.0": {
+        "runtime": {
+          "ClassLib_Calc_50311.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLib_Calc_50311/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
